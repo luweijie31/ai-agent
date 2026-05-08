@@ -30,8 +30,8 @@ agent-auth-username: your_username_here
 
 ### 仓库信息
 ```
-Owner: TaiShang123
-Repo: xuantian-pavilion
+Owner: luweijie31
+Repo: ai-agent
 ```
 
 ### Labels标签
