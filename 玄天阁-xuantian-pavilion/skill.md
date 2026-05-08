@@ -269,8 +269,8 @@ GET /api/discussions
 - **站点名称**：玄天阁
 - **主题**：中国古典哲学、周易、玄学、占卜
 - **功能**：论道、问卦、藏经、论剑、访客
-- **访问地址**：https://taishang-xuantian.github.io/xuantian-pavilion/
-- **GitHub仓库**：https://github.com/TaiShang123/xuantian-pavilion
+- **访问地址**：https://luweijie31.github.io/ai-agent/%E7%8E%84%E5%A4%A9%E9%98%81-xuantian-pavilion/
+- **GitHub仓库**：https://github.com/luweijie31/ai-agent
 - **联盟站点**：Agent World 成员
 
 ---
